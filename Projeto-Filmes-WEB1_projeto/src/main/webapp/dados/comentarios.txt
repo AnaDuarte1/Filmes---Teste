@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+1|1|1|muito bom|5
+=======
+1|1|1|muito bom|5
+>>>>>>> 10f7396 (json, usuario adm e comum)
